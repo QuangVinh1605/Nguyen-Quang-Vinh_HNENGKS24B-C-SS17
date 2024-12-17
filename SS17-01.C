@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 void MENU();
 void importElement(int **arr, int *n);
